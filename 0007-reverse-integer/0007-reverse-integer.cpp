@@ -1,7 +1,7 @@
 class Solution {
 public:
     int reverse(int x) {
-    long long rev=0;
+    double rev=0;
     int hold;
     
 
