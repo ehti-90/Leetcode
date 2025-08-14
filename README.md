@@ -6,6 +6,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ehti-90/Leetcode/tree/master/0007-reverse-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ehti-90/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
 |  |
