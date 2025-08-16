@@ -16,4 +16,5 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ehti-90/Leetcode/tree/master/0191-number-of-1-bits) |
+| [1054-complement-of-base-10-integer](https://github.com/ehti-90/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
