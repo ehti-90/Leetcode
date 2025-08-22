@@ -23,4 +23,12 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ehti-90/Leetcode/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [1319-unique-number-of-occurrences](https://github.com/ehti-90/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+## Hash Table
+|  |
+| ------- |
+| [1319-unique-number-of-occurrences](https://github.com/ehti-90/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
