@@ -29,10 +29,15 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 | ------- |
 | [0136-single-number](https://github.com/ehti-90/Leetcode/tree/master/0136-single-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ehti-90/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0792-binary-search](https://github.com/ehti-90/Leetcode/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/ehti-90/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ehti-90/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ehti-90/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/ehti-90/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
