@@ -30,6 +30,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 | [0136-single-number](https://github.com/ehti-90/Leetcode/tree/master/0136-single-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ehti-90/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0792-binary-search](https://github.com/ehti-90/Leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/ehti-90/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ehti-90/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -40,4 +41,5 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/ehti-90/Leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/ehti-90/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
