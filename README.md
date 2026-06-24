@@ -7,6 +7,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ehti-90/Leetcode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/ehti-90/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/ehti-90/Leetcode/tree/master/0231-power-of-two) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ehti-90/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
@@ -28,6 +29,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ehti-90/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ehti-90/Leetcode/tree/master/0136-single-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ehti-90/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0792-binary-search](https://github.com/ehti-90/Leetcode/tree/master/0792-binary-search) |
