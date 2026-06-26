@@ -7,6 +7,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ehti-90/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/ehti-90/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ehti-90/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/ehti-90/Leetcode/tree/master/0231-power-of-two) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ehti-90/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
