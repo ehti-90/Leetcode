@@ -30,6 +30,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ehti-90/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ehti-90/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ehti-90/Leetcode/tree/master/0136-single-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ehti-90/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -40,6 +41,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ehti-90/Leetcode/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ehti-90/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ehti-90/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Binary Search
