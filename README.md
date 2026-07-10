@@ -6,6 +6,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ehti-90/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ehti-90/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ehti-90/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ehti-90/Leetcode/tree/master/0066-plus-one) |
@@ -25,6 +26,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ehti-90/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ehti-90/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ehti-90/Leetcode/tree/master/0231-power-of-two) |
 ## Array
@@ -52,6 +54,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ehti-90/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ehti-90/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ehti-90/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
