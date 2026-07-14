@@ -35,6 +35,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 | [0001-two-sum](https://github.com/ehti-90/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ehti-90/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ehti-90/Leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/ehti-90/Leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ehti-90/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0792-binary-search](https://github.com/ehti-90/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ehti-90/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -45,6 +46,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 | ------- |
 | [0001-two-sum](https://github.com/ehti-90/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ehti-90/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/ehti-90/Leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ehti-90/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ehti-90/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Binary Search
@@ -65,6 +67,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ehti-90/Leetcode/tree/master/0217-contains-duplicate) |
 | [1833-maximum-ice-cream-bars](https://github.com/ehti-90/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
