@@ -34,6 +34,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 | ------- |
 | [0001-two-sum](https://github.com/ehti-90/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ehti-90/Leetcode/tree/master/0066-plus-one) |
+| [0128-longest-consecutive-sequence](https://github.com/ehti-90/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ehti-90/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ehti-90/Leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ehti-90/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -46,6 +47,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 | ------- |
 | [0001-two-sum](https://github.com/ehti-90/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ehti-90/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/ehti-90/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ehti-90/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ehti-90/Leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ehti-90/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -88,4 +90,8 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ehti-90/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ehti-90/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
