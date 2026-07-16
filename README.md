@@ -37,6 +37,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 | [0128-longest-consecutive-sequence](https://github.com/ehti-90/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ehti-90/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ehti-90/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/ehti-90/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ehti-90/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0792-binary-search](https://github.com/ehti-90/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ehti-90/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -94,4 +95,8 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ehti-90/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ehti-90/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
