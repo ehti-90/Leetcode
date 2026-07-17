@@ -86,6 +86,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ehti-90/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ehti-90/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ehti-90/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
@@ -99,4 +100,8 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ehti-90/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ehti-90/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
