@@ -10,7 +10,8 @@ class Solution:
             if ch in ("(", "[", "{"):
                 stack.append(ch)
 
-            if ch in ("}","]",")"):
+            else:
+                
                 if not stack:
                     return False
 
