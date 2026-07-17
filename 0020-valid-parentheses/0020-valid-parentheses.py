@@ -12,7 +12,7 @@ class Solution:
 
             if ch in ("}","]",")"):
                 if not stack:
-                    stack.append(ch)
+                    return False
 
                 if ch == ")" and stack[-1] == "(":
                     stack.pop()
@@ -20,17 +20,8 @@ class Solution:
                     stack.pop()
                 elif ch == "}" and stack[-1] == "{":
                     stack.pop()  
-                elif ch==")" and stack[-1] in ( "{","["):
-                    return False
-                elif ch=="]" and stack[-1] in ( "{","("):
-                    return False
-                elif ch=="}" and stack[-1] in ( "[","("):
+                else:
                     return False
                 
-                
-
-        if stack:
-            return False
-        else:
-            return True
+        return not stack
             
