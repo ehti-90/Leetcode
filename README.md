@@ -33,6 +33,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ehti-90/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ehti-90/Leetcode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/ehti-90/Leetcode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/ehti-90/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ehti-90/Leetcode/tree/master/0136-single-number) |
@@ -69,6 +70,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ehti-90/Leetcode/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/ehti-90/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
@@ -83,6 +85,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ehti-90/Leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ehti-90/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/ehti-90/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
