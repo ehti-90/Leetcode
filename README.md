@@ -86,6 +86,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ehti-90/Leetcode/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/ehti-90/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ehti-90/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/ehti-90/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -93,6 +94,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ehti-90/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ehti-90/Leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/ehti-90/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ehti-90/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
