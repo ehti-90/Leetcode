@@ -36,6 +36,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 | [0001-two-sum](https://github.com/ehti-90/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ehti-90/Leetcode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/ehti-90/Leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/ehti-90/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/ehti-90/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ehti-90/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ehti-90/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -60,6 +61,7 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ehti-90/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ehti-90/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/ehti-90/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ehti-90/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -120,4 +122,8 @@ A collection of my LeetCode problem solutions, written in C++ . Each solution in
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ehti-90/Leetcode/tree/master/0155-min-stack) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ehti-90/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
